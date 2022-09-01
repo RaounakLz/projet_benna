@@ -1,0 +1,39 @@
+.img-cart {
+  display: block;
+  max-width: 50px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+table tr td {
+}
+
+table tr th {
+  background: #eee;
+}
+
+.panel-shadow {
+  box-shadow: rgba(0, 0, 0, 0.3) 7px 7px 7px;
+}
+.btnPannier {
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+.container {
+}
+.col-md-9 {
+  margin-left: -80px !important;
+}
+.total {
+  width: 25px !important;
+  border: none !important;
+  margin-top: -13px !important;
+}

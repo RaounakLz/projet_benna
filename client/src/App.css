@@ -1,0 +1,58 @@
+/** login
+**/
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap");
+.bg-image-vertical {
+  position: relative;
+  overflow: hidden;
+  background-repeat: no-repeat !important;
+  background-position: right center;
+  background-size: auto 100%;
+}
+.vh-100 {
+  background-repeat: no-repeat;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Pacifico&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@media (min-width: 1025px) {
+  .h-custom-2 {
+    height: 100%;
+  }
+}
+/** register 
+**/
+.gradient-custom-4 {
+  /* fallback for old browsers */
+  background: rgb(141, 141, 131);
+
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(
+    to right,
+    rgb(213, 245, 33),
+    rgb(41, 189, 108)
+  );
+
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, rgb(213, 245, 33), rgb(41, 189, 108));
+}
+/* About */
+
+.main-container {
+  margin-top: 56px;
+  min-height: calc(100vh - 120px);
+}
+
+.adddrawnak {
+  background-color: transparent !important;
+  border: 1px aliceblue solid;
+  width: 100px !important;
+  height: 30px !important;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.adddrawnak:hover {
+  background-color: #af7ac5 !important;
+}
